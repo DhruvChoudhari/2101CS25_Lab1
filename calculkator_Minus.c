@@ -10,7 +10,7 @@ void minus(int n,int m){
 }
 
 int main(){
-    printf("This is the calculator to do substaraction (-) between two numbers\n");
+    printf("This is the calculator to do subtaraction (-) between two numbers\n");
     long long n ,m;
     minus(n,m);
     return 0;

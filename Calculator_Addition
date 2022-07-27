@@ -10,7 +10,7 @@ void plus(int n,int m){
 }
 
 int main(){
-    printf("This is the calculator to do addition (-) between two numbers\n");
+    printf("This is the calculator to do addition (+) between two numbers\n");
     long long n ,m;
     plus(n,m);
     return 0;
